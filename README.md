@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🧠 Thiago Silva - Cientista de Dados 🚀  
 
-<!--
-**ThiSilva49/Thisilva49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagosilva&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilva&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" width="50" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="50" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="50" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" width="50" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" />
+</div>
+
+## 📊 Estatísticas  
+- 📈 Focado em análise de dados, machine learning e big data  
+- 🛠 Criando projetos práticos e compartilhando conhecimento  
+- 💡 Buscando sempre aprender novas tecnologias  
+
+### 🔥 Conecte-se comigo!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiagosilva)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github)](https://github.com/thiagosilva)  
