@@ -1,7 +1,7 @@
 # 🧠 Thiago Silva - Cientista de Dados 🚀  
 
-![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagosilva&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilva&layout=compact&theme=radical)
+![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiSilva49&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiSilva49&layout=compact&theme=radical)
 
 ## 🚀 Tecnologias e Ferramentas  
 
@@ -22,5 +22,6 @@
 - 💡 Buscando sempre aprender novas tecnologias  
 
 ### 🔥 Conecte-se comigo!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/thiagosilva](https://www.linkedin.com/in/thiago-silva49/))  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github)](https://github.com/thisilva49)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-silva49/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github)](https://github.com/ThiSilva49)  
+
