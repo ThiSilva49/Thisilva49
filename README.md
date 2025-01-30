@@ -22,5 +22,5 @@
 - 💡 Buscando sempre aprender novas tecnologias  
 
 ### 🔥 Conecte-se comigo!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiagosilva)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github)](https://github.com/thiagosilva)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/thiagosilva](https://www.linkedin.com/in/thiago-silva49/))  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github)](https://github.com/thisilva49)  
