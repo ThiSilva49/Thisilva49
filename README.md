@@ -1,114 +1,116 @@
-# 👋 Olá, eu sou Thiago Silva
+# 👋 Hi, I'm Thiago Silva | Olá, eu sou Thiago Silva
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Python+%7C+Data+Science+%7C+SQL;Always+learning+new+technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Python+%7C+Data+Science+%7C+SQL;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ThiSilva49">
-    <img src="https://img.shields.io/github/followers/ThiSilva49?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/ThiSilva49?style=for-the-badge&label=Followers"/>
   </a>
   <a href="https://github.com/ThiSilva49">
-    <img src="https://img.shields.io/github/stars/ThiSilva49?affiliations=OWNER&style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/ThiSilva49?affiliations=OWNER&style=for-the-badge&label=Stars"/>
   </a>
   <a href="https://www.linkedin.com/in/thiago-silva49/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-# 🚀 Sobre mim
+# 🌍 Language | Idioma
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia e resolução de problemas.
-
-🎓 Estudante de Ciência da Computação.
-
-📊 Também desenvolvo projetos de Ciência de Dados utilizando Python, SQL e Machine Learning.
-
-🌱 Atualmente aprofundando conhecimentos em:
-
-* Java & Spring Boot
-* React & Next.js
-* Arquitetura de Software
-* APIs REST
-* Docker
-* Inteligência Artificial
-* Cloud Computing
+* 🇺🇸 English
+* 🇧🇷 Português (scroll down)
 
 ---
 
-# 💻 Stack
+# 🇺🇸 About Me
 
-## Backend
+🎓 Computer Science student passionate about building modern software.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
-</p>
+💻 Full Stack Developer focused on Java, Spring Boot, React and Next.js.
 
-## Frontend
+📊 I also build Data Science projects using Python, SQL and Machine Learning.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
-</p>
+🚀 My goal is to create scalable software that solves real-world problems while continuously improving my engineering skills.
 
-## Banco de Dados
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-</p>
+## 💼 Tech Stack
 
-## Data Science
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,r" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
 </p>
 
-**Bibliotecas**
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+</p>
+
+### Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r"/>
+</p>
+
+Libraries
 
 * Pandas
 * NumPy
 * Matplotlib
 * Scikit-Learn
 
-## Ferramentas
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"/>
 </p>
 
 ---
 
-# 📌 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 💰 GranaEmDia
 
-Aplicação Full Stack para controle financeiro pessoal utilizando React, Spring Boot e banco de dados.
+Personal finance management platform built with React and Spring Boot.
 
-### 🌎 Observatório Econômico do Recife
+### 🌎 Recife Economic Observatory
 
-Plataforma de visualização de indicadores econômicos com gráficos interativos e análise de dados.
+Interactive dashboard for economic indicators and data visualization.
 
 ### 📊 Earthquake Analysis
 
-Projeto de Ciência de Dados para análise e visualização de terremotos utilizando Python.
+Data Science project focused on earthquake analysis using Python.
 
 ### 🏋️ DayFit
 
-Sistema desenvolvido durante a graduação para gerenciamento fitness.
+Full Stack academic project for fitness management.
 
 ---
 
-# 📈 Estatísticas
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiSilva49&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiSilva49&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiSilva49&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiSilva49&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🔥 Sequência de Contribuições
+## 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ThiSilva49&theme=github-dark-blue&hide_border=true"/>
@@ -116,28 +118,161 @@ Sistema desenvolvido durante a graduação para gerenciamento fitness.
 
 ---
 
-# 📫 Contato
+## 🌱 Currently Learning
 
-<p align="left">
+* Spring Security
+* Docker
+* Clean Architecture
+* Software Design Patterns
+* Cloud Computing
+* Artificial Intelligence
+
+---
+
+## 📫 Contact
+
+<p>
 
 <a href="https://www.linkedin.com/in/thiago-silva49/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:thiago.fernando1129@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Objetivo
+---
 
-Construir aplicações escaláveis e de alta qualidade, unindo desenvolvimento Full Stack, Engenharia de Software e Ciência de Dados para criar soluções que gerem impacto real.
+# 🇧🇷 Português
+
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de Ciência da Computação apaixonado por tecnologia.
+
+💻 Desenvolvedor Full Stack com foco em Java, Spring Boot, React e Next.js.
+
+📊 Também desenvolvo projetos de Ciência de Dados utilizando Python, SQL e Machine Learning.
+
+🚀 Meu objetivo é construir aplicações escaláveis e gerar impacto por meio da tecnologia.
+
+---
+
+## 💼 Tecnologias
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css"/>
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+</p>
+
+### Ciência de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r"/>
+</p>
+
+Bibliotecas
+
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-Learn
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"/>
+</p>
+
+---
+
+## 🚀 Projetos
+
+### 💰 GranaEmDia
+
+Sistema Full Stack para controle financeiro pessoal.
+
+### 🌎 Observatório Econômico do Recife
+
+Dashboard interativo para visualização de indicadores econômicos.
+
+### 📊 Earthquake Analysis
+
+Projeto de Ciência de Dados para análise de terremotos.
+
+### 🏋️ DayFit
+
+Projeto acadêmico Full Stack para gerenciamento fitness.
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiSilva49&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiSilva49&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ThiSilva49&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+* Spring Security
+* Docker
+* Arquitetura Limpa
+* Design Patterns
+* Cloud Computing
+* Inteligência Artificial
+
+---
+
+## 📫 Contato
+
+<p>
+
+<a href="https://www.linkedin.com/in/thiago-silva49/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:thiago.fernando1129@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-⭐ Se algum projeto foi útil para você, deixe uma estrela no repositório!
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+*"A tecnologia evolui todos os dias, e eu evoluo com ela."*
+
 </p>
