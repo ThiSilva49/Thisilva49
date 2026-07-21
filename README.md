@@ -106,8 +106,6 @@ Sistema desenvolvido durante a graduação para gerenciamento fitness.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiSilva49&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
-> **Caso os cards não apareçam, normalmente é uma indisponibilidade temporária do serviço `github-readme-stats`. Basta aguardar alguns minutos ou horas para que voltem ao normal.**
-
 ---
 
 # 🔥 Sequência de Contribuições
