@@ -85,7 +85,7 @@ Libraries
 
 Personal finance management platform built with React and Spring Boot.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/GranaEmDia)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/GRANA-EM-DIA)
 
 ### 🌎 Recife Economic Observatory
 
@@ -104,8 +104,6 @@ Data Science project focused on earthquake analysis using Python.
 Full Stack academic project for fitness management.
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/DayFit)
-
-> ⚠️ Confira se esses links batem com os nomes reais dos seus repositórios — ajustei pelo nome do projeto, mas pode ser diferente do slug real no GitHub.
 
 ---
 
@@ -229,7 +227,7 @@ Bibliotecas
 
 Sistema Full Stack para controle financeiro pessoal.
 
-[![Repo](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/GranaEmDia)
+[![Repo](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/GRANA-EM-DIA)
 
 ### 🌎 Observatório Econômico do Recife
 
@@ -248,8 +246,6 @@ Projeto de Ciência de Dados para análise de terremotos.
 Projeto acadêmico Full Stack para gerenciamento fitness.
 
 [![Repo](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/DayFit)
-
-> ⚠️ Confira se esses links batem com os nomes reais dos seus repositórios — ajustei pelo nome do projeto, mas pode ser diferente do slug real no GitHub.
 
 ---
 
