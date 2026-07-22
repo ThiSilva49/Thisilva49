@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/thiago-silva49/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
+  <img src="https://img.shields.io/badge/Open%20to-Internship%20%2F%20Job%20Opportunities-2ea44f?style=for-the-badge"/>
 </p>
 
 ---
@@ -84,17 +85,27 @@ Libraries
 
 Personal finance management platform built with React and Spring Boot.
 
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/GranaEmDia)
+
 ### 🌎 Recife Economic Observatory
 
 Interactive dashboard for economic indicators and data visualization.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/Observatorio-Economico-Recife)
 
 ### 📊 Earthquake Analysis
 
 Data Science project focused on earthquake analysis using Python.
 
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/Earthquake-Analysis)
+
 ### 🏋️ DayFit
 
 Full Stack academic project for fitness management.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/DayFit)
+
+> ⚠️ Confira se esses links batem com os nomes reais dos seus repositórios — ajustei pelo nome do projeto, mas pode ser diferente do slug real no GitHub.
 
 ---
 
@@ -126,6 +137,14 @@ Full Stack academic project for fitness management.
 * Software Design Patterns
 * Cloud Computing
 * Artificial Intelligence
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ThiSilva49&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8"/>
+</p>
 
 ---
 
@@ -208,17 +227,27 @@ Bibliotecas
 
 Sistema Full Stack para controle financeiro pessoal.
 
+[![Repo](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/GranaEmDia)
+
 ### 🌎 Observatório Econômico do Recife
 
 Dashboard interativo para visualização de indicadores econômicos.
+
+[![Repo](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/Observatorio-Economico-Recife)
 
 ### 📊 Earthquake Analysis
 
 Projeto de Ciência de Dados para análise de terremotos.
 
+[![Repo](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/Earthquake-Analysis)
+
 ### 🏋️ DayFit
 
 Projeto acadêmico Full Stack para gerenciamento fitness.
+
+[![Repo](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square&logo=github)](https://github.com/ThiSilva49/DayFit)
+
+> ⚠️ Confira se esses links batem com os nomes reais dos seus repositórios — ajustei pelo nome do projeto, mas pode ser diferente do slug real no GitHub.
 
 ---
 
@@ -250,6 +279,14 @@ Projeto acadêmico Full Stack para gerenciamento fitness.
 * Design Patterns
 * Cloud Computing
 * Inteligência Artificial
+
+---
+
+## 🏆 Troféus do GitHub
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ThiSilva49&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8"/>
+</p>
 
 ---
 
