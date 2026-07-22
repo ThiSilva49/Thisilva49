@@ -66,10 +66,12 @@
 
 Libraries
 
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-Learn
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ### Tools
 
@@ -144,6 +146,8 @@ Full Stack academic project for fitness management.
 <img src="https://trophy.benkou.dev/?username=ThiSilva49&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
 
+> ⚠️ This card runs on a free community-hosted mirror and can occasionally go down. If it stops loading, try `github-profile-trophy-liard-delta.vercel.app`, `github-profile-trophy-kannan.vercel.app`, `github-trophies.devomb.com`, or `github-profile-trophy-tawny.vercel.app` in the URL — or self-host from [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) for a permanent fix.
+
 ---
 
 ## 📫 Contact
@@ -206,10 +210,12 @@ Full Stack academic project for fitness management.
 
 Bibliotecas
 
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-Learn
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ### Ferramentas
 
@@ -283,6 +289,8 @@ Projeto acadêmico Full Stack para gerenciamento fitness.
 <p align="center">
 <img src="https://trophy.benkou.dev/?username=ThiSilva49&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
+
+> ⚠️ Esse card roda num espelho comunitário gratuito e pode cair de vez em quando. Se parar de carregar, troque a URL por `github-profile-trophy-liard-delta.vercel.app`, `github-profile-trophy-kannan.vercel.app`, `github-trophies.devomb.com` ou `github-profile-trophy-tawny.vercel.app` — ou hospede sua própria instância a partir do [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) pra resolver de vez.
 
 ---
 
