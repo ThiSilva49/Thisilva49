@@ -141,10 +141,10 @@ Full Stack academic project for fitness management.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=ThiSilva49&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://trophy.benkou.dev/?username=ThiSilva49&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
 
-> ⚠️ This card runs on a free community-hosted mirror and can occasionally go down. If it stops loading, try `github-profile-trophy-liard-delta.vercel.app` or `github-profile-trophy-kannan.vercel.app` in the URL, or self-host from [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).
+> ⚠️ This card runs on a free community-hosted mirror and can occasionally go down. If it stops loading, try `github-profile-trophy-liard-delta.vercel.app`, `github-profile-trophy-kannan.vercel.app`, `github-trophies.devomb.com`, or `github-profile-trophy-tawny.vercel.app` in the URL — or self-host from [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) for a permanent fix.
 
 ---
 
@@ -283,10 +283,10 @@ Projeto acadêmico Full Stack para gerenciamento fitness.
 ## 🏆 Troféus do GitHub
 
 <p align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=ThiSilva49&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://trophy.benkou.dev/?username=ThiSilva49&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
 
-> ⚠️ Esse card roda num espelho comunitário gratuito e pode cair de vez em quando. Se parar de carregar, troque a URL por `github-profile-trophy-liard-delta.vercel.app` ou `github-profile-trophy-kannan.vercel.app`, ou hospede sua própria instância a partir do [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).
+> ⚠️ Esse card roda num espelho comunitário gratuito e pode cair de vez em quando. Se parar de carregar, troque a URL por `github-profile-trophy-liard-delta.vercel.app`, `github-profile-trophy-kannan.vercel.app`, `github-trophies.devomb.com` ou `github-profile-trophy-tawny.vercel.app` — ou hospede sua própria instância a partir do [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) pra resolver de vez.
 
 ---
 
